@@ -76,27 +76,7 @@
 <p align="center">
   <img
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV0cnpxamF0bHJxM2s2NWpkczl2MGRkZWZieDg4aWg4aG5zbHV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6qnA9zvhZmla/giphy.gif"
-    alt="Ghibli vibes"
+    alt="Ghibli Vibes"
     width="100%"
-  />
-</p>
-
----
-
-<!-- ===================================================== -->
-<!-- ===================== STATS ========================= -->
-<!-- ===================================================== -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZacharyTStone&show_icons=true&theme=radical&hide_title=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyTStone&layout=compact&theme=radical"
   />
 </p>
