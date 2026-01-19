@@ -1,20 +1,58 @@
+<!-- ===================================================== -->
+<!-- ===================== HERO ========================== -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da6fc18c-6fd2-4e92-9ce1-de1cab52ce8e" alt="Zach Stone Banner" width="100%" />
+  <img
+    src="https://github.com/user-attachments/assets/da6fc18c-6fd2-4e92-9ce1-de1cab52ce8e"
+    alt="Zach Stone Banner"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Zach Stone</h1>
-<p align="center"><em>Senior Frontend Engineer • React / Next.js • TypeScript • 日本語OK</em></p>
 
 <p align="center">
-  <a href="https://www.zstone.dev"><b>Website</b></a> •
-  <a href="https://linkedin.com/in/zacharystone42"><b>LinkedIn</b></a> •
-  <a href="https://github.com/ZacharyTStone"><b>GitHub</b></a> •
-  <a href="mailto:zacharystone42@gmail.com"><b>Email</b></a>
+  <em>
+    Senior Frontend Engineer • React / Next.js • TypeScript • 日本語OK 🇯🇵
+  </em>
+</p>
+
+
+---
+
+<!-- ===================================================== -->
+<!-- ===================== LINKS ========================= -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <a href="https://www.zstone.dev">
+    <img src="https://img.shields.io/badge/Website-zstone.dev-black?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/zacharystone42">
+    <img src="https://img.shields.io/badge/LinkedIn-Zach%20Stone-0A66C2?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:zacharystone42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZacharyTStone&label=Profile+Views&color=blue&style=flat-square" />
 </p>
 
 ---
 
-### 🛠 Tech Stack  
+<!-- ===================================================== -->
+<!-- ===================== TECH ========================== -->
+<!-- ===================================================== -->
+
+<h2 align="center">⚡ Tech I Like Using</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,git&theme=dark" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
@@ -23,17 +61,42 @@
 
 ---
 
-### 💬 Fun Facts  
-- 🥊 Kickboxing enthusiast  
-- 🗾 Favorite place: Fukushima, Japan  
-- 🎬 Slowing buying all of the Ghibli films on blueray.
+<!-- ===================================================== -->
+<!-- ===================== FUN =========================== -->
+<!-- ===================================================== -->
+
+<h2 align="center">💬 Fun Facts</h2>
+
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV0cnpxamF0bHJxM2s2NWpkczl2MGRkZWZieDg4aWg4aG5zbHV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6qnA9zvhZmla/giphy.gif" alt="Ghibli GIF" width="500" />
+  🥊 Kickboxing enthusiast <br/>
+  🗾 Favorite place: Fukushima, Japan <br/>
+  🎬 Slowly buying every Studio Ghibli film on Blu-ray
+</p>
+
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXV0cnpxamF0bHJxM2s2NWpkczl2MGRkZWZieDg4aWg4aG5zbHV1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W6qnA9zvhZmla/giphy.gif"
+    alt="Ghibli vibes"
+    width="100%"
+  />
 </p>
 
 ---
 
-### 📊 GitHub Top Languages  
+<!-- ===================================================== -->
+<!-- ===================== STATS ========================= -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyTStone&layout=compact&theme=radical" alt="Top Programming Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ZacharyTStone&show_icons=true&theme=radical&hide_title=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyTStone&layout=compact&theme=radical"
+  />
 </p>
