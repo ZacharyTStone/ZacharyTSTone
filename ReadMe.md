@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    Senior Frontend Engineer • React / Next.js • TypeScript • 日本語OK 🇯🇵
+    Senior Software Engineer • Frontend Focus • React / Next.js • TypeScript • 日本語OK 🇯🇵
   </em>
 </p>
 
